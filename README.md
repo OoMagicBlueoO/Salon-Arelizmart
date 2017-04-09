@@ -1,2 +1,2 @@
-# Salon-Arelizmart
-Salón de Eventos Arelizmart
+# Salón de Eventos Arelizmart
+Template Responsive Demo
